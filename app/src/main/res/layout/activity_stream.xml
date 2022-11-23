@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".StreamActivity"
+    android:background="#18191B"
+    >
+
+
+    <FrameLayout
+        android:id="@+id/fl_main_track_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/comment_layout"
+        />
+
+    <LinearLayout
+        android:id="@+id/ll_topBar_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        >
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:icon="@drawable/ic_arrow_left_light"
+            android:insetLeft="0dp"
+            android:insetTop="0dp"
+            android:insetRight="0dp"
+            android:insetBottom="0dp"
+            style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+            app:iconTint="@color/white"
+            app:iconGravity="textStart"
+            />
+
+        <com.google.android.material.button.MaterialButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TRỰC TIẾP"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            app:cornerRadius="50dp"
+            android:backgroundTint="@color/redLight"
+            android:insetBottom="10dp"
+            android:insetTop="10dp"
+            android:clickable="false"
+            android:focusable="false"
+            />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_count_viewer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1"
+            app:icon="@drawable/ic_eye_solid"
+            app:iconSize="18dp"
+            app:iconTint="@color/white"
+            app:iconGravity="textStart"
+            android:textColor="@color/white"
+            app:cornerRadius="50dp"
+            android:insetLeft="10dp"
+            android:backgroundTint="#43464C"
+            android:clickable="false"
+            android:focusable="false"
+            android:insetTop="10dp"
+            android:insetBottom="10dp"
+            />
+    </LinearLayout>
+    
+    <RelativeLayout
+        android:id="@+id/comment_layout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintDimensionRatio="1:0.55"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/cv_action_layout"
+        >
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/view_empty_comment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:clickable="false"
+            android:focusable="false"
+            android:fontFamily="sans-serif-light"
+            android:gravity="center"
+            android:insetLeft="0dp"
+            android:insetTop="0dp"
+            android:insetRight="0dp"
+            android:insetBottom="0dp"
+            android:text="Hãy là người đầu tiên bình luận về video này"
+            android:textAllCaps="false"
+            android:textSize="12sp"
+            android:textStyle="normal"
+            app:backgroundTint="#18191B"
+            app:icon="@drawable/ic_message_solid"
+            app:iconGravity="top"
+            app:iconSize="80dp"
+            app:iconTint="#37383A"
+            android:outlineProvider="none"
+            />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv_comment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            android:visibility="gone"/>
+    </RelativeLayout>
+        
+    
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/cv_action_layout"
+        style="@style/Widget.MaterialComponents.CardView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintDimensionRatio="1:0.2"
+        android:orientation="horizontal"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:cardBackgroundColor="#18191B"
+        app:cardCornerRadius="0dp"
+        >
+        <LinearLayout
+            android:id="@+id/ll_action_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:gravity="start|center_vertical"
+            android:paddingHorizontal="10dp"
+            >
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btn_comment"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bình luận..."
+                app:cornerRadius="50dp"
+                app:icon="@drawable/ic_face_smile_light"
+                app:iconGravity="textEnd"
+                android:padding="12dp"
+                android:backgroundTint="#303030"
+                />
+            <com.google.android.material.textview.MaterialTextView
+                android:id="@+id/tv_room_token"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Room token"
+                android:textColor="@color/white"
+                />
+        </LinearLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

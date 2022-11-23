@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Projects/Zalo_05/Android/Projects/Zalo_05/app/src/main/res/mipmap-anydpi-v26/ic_user_group.xml" value="0.1505" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-anydpi/ic_address_book_light.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-anydpi/ic_address_book_solid.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-anydpi/ic_arrow_left_light.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-anydpi/ic_arrow_right_from_bracket_light.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-anydpi/ic_arrow_right_from_bracket_solid.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-anydpi/ic_arrow_right_regular.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-anydpi/ic_circle_check_solid.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-anydpi/ic_circle_solid.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-anydpi/ic_comment_lines_light.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-anydpi/ic_comment_lines_solid.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-anydpi/ic_lock_keyhole_light.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-anydpi/ic_magnifying_glass_light.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-anydpi/ic_microphone_light.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-anydpi/ic_phone_light.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-anydpi/ic_send_solid.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-anydpi/ic_user_light.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-anydpi/ic_user_solid.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-hdpi/back.xml" value="0.1" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-hdpi/background_color_ic_user_group.xml" value="0.1505" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-hdpi/ic_phone.xml" value="0.1" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-v24/appbar_gradient_bg.xml" value="0.1505" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-v24/edit_text_indicator_selector.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-v24/login_btn_background.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-v24/profile_selector.xml" value="0.133" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable-v24/register_btn_background.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable/border_top_bottom_bg.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable/checkbox_selector.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable/circle_bg.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable/flat_circle_textview_bg.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable/ic_check_circle_24.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable/ic_group_user_foreground.xml" value="0.1505" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable/ic_radio_button_unchecked_24.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable/received_message_bg.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable/search_shape_bg.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable/send_message_bg.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/drawable/underline_bg.xml" value="0.222" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/activity_add_contact.xml" value="0.2754782700075322" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/activity_auth.xml" value="0.24048913043478262" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/activity_chat.xml" value="0.2754782700075322" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/activity_enter_password.xml" value="0.24048913043478262" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/activity_login.xml" value="0.24048913043478262" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/activity_main.xml" value="0.24048913043478262" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/activity_outgoing_call.xml" value="0.1" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/activity_register.xml" value="0.18365218000502148" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/activity_select_gender_and_birth_date.xml" value="0.2754782700075322" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/activity_user_profile.xml" value="0.2754782700075322" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/activity_verify_otp.xml" value="0.2754782700075322" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/activity_verify_otpactivity.xml" value="0.24048913043478262" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/dialog_confirm_layout.xml" value="0.24048913043478262" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/dialog_loading_layout.xml" value="0.24048913043478262" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/dropdown_list_layout.xml" value="0.24048913043478262" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/fragment_contacts.xml" value="0.3333333333333333" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/fragment_enter_name.xml" value="0.1" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/fragment_enter_number_phone.xml" value="0.24048913043478262" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/fragment_messages.xml" value="0.24048913043478262" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/fragment_profile.xml" value="0.2754782700075322" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/fragment_record.xml" value="0.26875" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/item_add_contact_recyclerview.xml" value="0.26875" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/item_add_contact_with_alphabet_header.xml" value="0.2754782700075322" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/item_contact_recyclerview.xml" value="0.2754782700075322" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/item_container_receiver_message_layout.xml" value="0.24048913043478262" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/item_container_recent_conversation_layout.xml" value="0.13069908814589665" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/item_container_recent_conversion_layout.xml" value="0.24048913043478262" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/item_container_sent_message_layout.xml" value="0.2754782700075322" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/item_title_contact_by_alphabet.xml" value="0.2754782700075322" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/layout/slide_layout.xml" value="0.24048913043478262" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/menu/menu_bottom_navigation_badge.xml" value="0.26875" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/mipmap-anydpi-v26/ic_group_user_round.xml" value="0.1505" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/mipmap-anydpi-v26/ic_phone_list_book_round.xml" value="0.1505" />
+        <entry key="..\:/Android/Projects/Zalo_05/app/src/main/res/mipmap-anydpi-v26/ic_user_group_round.xml" value="0.1505" />
+        <entry key="..\:/Users/schoo/Downloads/Zalo_05-master/app/src/main/res/drawable-anydpi/ic_camera_movie_solid.xml" value="0.2265" />
+        <entry key="..\:/Users/schoo/Downloads/Zalo_05-master/app/src/main/res/drawable-anydpi/ic_eye_solid.xml" value="0.2265" />
+        <entry key="..\:/Users/schoo/Downloads/Zalo_05-master/app/src/main/res/drawable-anydpi/ic_face_smile_light.xml" value="0.2265" />
+        <entry key="..\:/Users/schoo/Downloads/Zalo_05-master/app/src/main/res/drawable-anydpi/ic_message_solid.xml" value="0.2265" />
+        <entry key="..\:/Users/schoo/Downloads/Zalo_05-master/app/src/main/res/layout/activity_main.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/schoo/Downloads/Zalo_05-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/schoo/Downloads/Zalo_05-master/app/src/main/res/layout/activity_stream.xml" value="0.264" />
+        <entry key="..\:/Users/schoo/Downloads/Zalo_05-master/app/src/main/res/menu/menu_bottom_navigation_badge.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
